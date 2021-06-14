@@ -37,7 +37,6 @@ app.post('/addvideo', (req, res) => {
     if (user == "john") {
         fs.readFile(JohnDB, 'utf-8', (err, data) => {
             let johnJSON = JSON.parse(data)
-            console.log(johnJSON)
 
             johnJSON.videos.push(newVideo)
 
@@ -48,8 +47,7 @@ app.post('/addvideo', (req, res) => {
 
     } else if (user == "mark") {
         fs.readFile(MarkDB, 'utf-8', (err, data) => {
-            let johnJSON = JSON.parse(data)
-            console.log(johnJSON)
+            let markJSON = JSON.parse(data)
 
             markJSON.videos.push(newVideo)
 
