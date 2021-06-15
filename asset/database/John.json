@@ -1,18 +1,1 @@
-{
-    "name": "john",
-    "videos": [
-        {
-            "title": "EasyVista IT Service Management for the Mobile User (Française) ",
-            "id": "WROlGNthbNE"
-        },
-        {
-            "title": "AngularJS Fundamentals In 60­ish Minutes",
-            "id": "i9MHigUZKEM"
-        },
-        {
-            "title": "EasyVista IT Heroes - Episode 1",
-            "id": "CkZKknKjEwo"
-        }
-    ],
-    "libName": "Animés"
-}
+{"name":"john","videos":[{"title":"EasyVista IT Service Management for the Mobile User (Française) ","id":"WROlGNthbNE"},{"title":"AngularJS Fundamentals In 60­ish Minutes","id":"i9MHigUZKEM"},{"title":"EasyVista IT Heroes - Episode 1","id":"CkZKknKjEwo"},{"title":"Eyeshield 21 Opening 3 Dang Dang","id":"xVYktOB4K1M"}],"libName":"Animés"}
